@@ -1,0 +1,16 @@
+SITE TOPNET
+
+Estrutura:
+- index.html
+- styles.css
+- script.js
+- assets/
+  - topnet-logo.png
+
+Como abrir:
+1. Extraia o arquivo ZIP.
+2. Abra o arquivo index.html no navegador.
+3. Para publicar, envie toda a pasta mantendo a mesma estrutura.
+
+Observação:
+O formulário está preparado no front-end e pode ser conectado depois ao WhatsApp, e-mail ou backend oficial da Topnet.
